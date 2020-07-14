@@ -1,3 +1,11 @@
+## NOTE (Licensing)
+
+Commercial usage of this project requires a license from the author(s) of
+this project. Contact us for details.
+
+Note: The licensing terms of this project were changed due to commercial abuse
+from OpenAudible (http://openaudible.org/) and other projects.
+
 ## About
 
 Plugin for [RainbowCrack](http://project-rainbowcrack.com/) to recover your own
@@ -5,8 +13,6 @@ Audible activation data (activation_bytes) in an offline manner.
 
 You need to recover or retrieve your "activation_bytes" only once. This single
 "activation_bytes" value will work for all your .aax files.
-
-This project is in public domain.
 
 ## Donations
 
